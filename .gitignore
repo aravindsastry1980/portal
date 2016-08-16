@@ -1,3 +1,5 @@
 .metadata/*
 portal/.settings/*
 RemoteSystemsTempFiles/*
+.recommenders/*
+Servers/*
